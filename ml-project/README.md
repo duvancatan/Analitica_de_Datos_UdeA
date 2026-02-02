@@ -10,8 +10,16 @@ Los integrantes del proyecto son:
 2. Osama 
 
 ## Estructura
+La estructura del proyecto es la siguiente:
 - data/: datos
 - notebooks/: exploración
 - src/: código reproducible
 - models/: modelos entrenados
 - reports/: resultados
+
+## Objetivos 
+- Utilizar herramientas computacionales para la manipulación eficiente de datos.
+- Aplicar técnicas de análisis exploratorio para comprender la estructura de los datos.
+- Implementar modelos de aprendizaje supervisado y no supervisado.
+- Evaluar e interpretar modelos estadísticos y de Machine Learning.
+- Comunicar resultados de forma clara, reproducible y ética.
